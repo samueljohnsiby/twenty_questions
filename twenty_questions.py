@@ -22,7 +22,7 @@ class GameConfig:
     max_questions: int = 20
     max_retries: int = 3
     timeout: int = 30
-    model_id: str = "anthropic.claude-3-sonnet-20240229-v1:0"
+    model_id: str = "us.meta.llama3-2-90b-instruct-v1:0"
     temperature: float = 0.7
     top_p: float = 0.9
     top_k: int = 200

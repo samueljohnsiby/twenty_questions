@@ -1,3 +1,4 @@
 myenv/
 logs/
 __pycache__/
+test_logs/
