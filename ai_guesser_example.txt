@@ -1,0 +1,55 @@
+Game Flow
+
+1. AI: Is it a person?
+Human: No.
+
+2. AI: Is it a place?
+Human: No.
+
+3. AI: Is it a thing?
+Human: Yes.
+
+4. AI: Is it man-made?
+Human: Yes.
+
+5. AI: Is it something that serves a practical purpose?
+Human: No.
+
+6. AI: Is it associated with art or creativity?
+Human: Yes.
+
+7. AI: Is it a type of art, such as a painting, sculpture, or music?
+Human: Yes.
+
+8. AI: Is it a painting?
+Human: Yes.
+
+9. AI: Is it widely recognized?
+Human: Yes.
+
+10. AI: Was it created by a famous artist?
+Human: Yes.
+
+11. AI: Is the artist European?
+Human: Yes.
+
+12. AI: Was the painting created before the 20th century?
+Human: Yes.
+
+13. AI: Was it painted during the Renaissance period?
+Human: Yes.
+
+14. AI: Is the painting displayed in a well-known museum?
+Human: Yes.
+
+15. AI: Is the museum in Europe?
+Human: No.
+
+16. AI: Is the museum in the United States?
+Human: No.
+
+17. AI: Is the museum in France?
+Human: Yes.
+
+18. AI: Is the painting The Mona Lisa by Leonardo da Vinci?
+Human: Yes!

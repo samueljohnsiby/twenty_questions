@@ -1,0 +1,43 @@
+Game Flow
+
+1. Human: Is it a person?
+AI: No.
+
+2. Human: Is it a place?
+AI: Yes.
+
+3. Human: Is it a man-made place?
+AI: No.
+
+4. Human: Is it a natural feature?
+AI: Yes.
+
+5. Human: Is it located in the ocean?
+AI: No.
+
+6. Human: Is it located on land?
+AI: Yes.
+
+7. Human: Is it associated with a specific continent?
+AI: Yes.
+
+8. Human: Is it in Asia?
+AI: Yes.
+
+9. Human: Is it a desert?
+AI: No.
+
+10. Human: Is it a mountain?
+AI: Yes.
+
+11. Human: Is it part of the Himalayas?
+AI: Yes.
+
+12. Human: Is it a well-known mountain?
+AI: Yes.
+
+13. Human: Is it the tallest mountain in the world?
+AI: Yes.
+
+14. Human: Is it Mount Everest?
+AI: Yes!
