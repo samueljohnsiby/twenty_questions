@@ -37,7 +37,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install required packages:
 ```bash
-pip install boto3 rich
+pip install -r requirements.txt
 ```
 
 4. Configure AWS credentials:
@@ -111,9 +111,6 @@ The game includes robust error handling for:
 - API timeouts
 - Invalid user input
 - AWS service errors
-
-
-
 
 
 ## Technologies Used 👏
