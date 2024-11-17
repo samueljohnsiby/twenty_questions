@@ -25,7 +25,7 @@ class GameAnalytics:
         if self.cached_stats is not None:
             return self.cached_stats
             
-        stats_file = self.log_dir / "game_stats.jsonl"
+        stats_file = self.log_dir / "game_stats.json"
         stats = []
         if stats_file.exists():
             with open(stats_file, 'r') as f:
