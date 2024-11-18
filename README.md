@@ -113,7 +113,7 @@ The game includes robust error handling for:
 - AWS service errors
 
 
-## Technologies Used 👏
+## Technologies Used 
 
 - AWS Bedrock for AI capabilities
 - Meta's Llama model for natural language processing

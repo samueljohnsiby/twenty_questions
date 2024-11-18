@@ -490,7 +490,6 @@ If it's a question, answer with yes/no/not sure."""
             # AI thinks of something
             category = self.pick_type()
             self.secret_subject = self.call_llm(f"Think of something and only respond with the item, person, or concept.This time pick on in category : {category}",append=False)
-            print(self.secret_subject)
             init_prompt = (
                 "You are now the thinker in a game of 20 questions. "
                 f"The thing you are thinking is {self.secret_subject} "
